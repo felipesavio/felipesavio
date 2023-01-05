@@ -1,10 +1,10 @@
 ### Salve! Eu sou o Felipe Sávio!
 
-- Tenho 17 anos de idade
-- Sou de São Paulo
-- Meu nome completo é Felipe Sávio Elizeu Rezende
-- Estou estudando Analise e Desenvolvimento de Sistemas
-- Sou apaixonado por futebol
+- 17 anos de idade.
+- São Paulo, SP.
+- Meu nome completo é Felipe Sávio Elizeu Rezende.
+- Estudante do ensino médio intregado ao técnico em Analise e Desenvolvimento de Sistemas.
+- Estudante da Alura.
 
   <a href="https://instagram.com/felipesavioer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitter.com/felipesavioer" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
