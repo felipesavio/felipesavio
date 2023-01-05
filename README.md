@@ -1,7 +1,7 @@
-### Salve!! Eu sou o Felipe Sávio!
+### Salve! Eu sou o Felipe Sávio!
 
-- Tenho 15 anos de idade, nasci em 06/09/2005
-- Sou de São Paulo/SP
+- Tenho 17 anos de idade
+- Sou de São Paulo
 - Meu nome completo é Felipe Sávio Elizeu Rezende
 - Estou estudando Analise e Desenvolvimento de Sistemas
 - Sou apaixonado por futebol
