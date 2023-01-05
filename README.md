@@ -1,10 +1,6 @@
 ### Salve! Eu sou o Felipe Sávio!
 
-- 17 anos de idade.
-- São Paulo, SP.
-- Meu nome completo é Felipe Sávio Elizeu Rezende.
-- Estudante do ensino médio intregado ao técnico em Analise e Desenvolvimento de Sistemas.
-- Estudante da Alura.
+Estudando no 3°ano do ensino médio com habilitação profissional em Analise e Desenvolvimento de Sistemas na ETEC, e fazendoo os cursos na Alura.
 
   <a href="https://instagram.com/felipesavioer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitter.com/felipesavioer" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
