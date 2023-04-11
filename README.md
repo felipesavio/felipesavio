@@ -1,6 +1,6 @@
 ### Eu sou o Felipe Sávio!
 
-Estudando no 3°ano do ensino médio com habilitação profissional em Analise e Desenvolvimento de Sistemas na ETEC, e fazendoo cursos na Alura.
+Estudando no 3°ano do ensino médio com habilitação profissional em Analise e Desenvolvimento de Sistemas na ETEC, e fazendo cursos na Alura.
 
   <a href="https://instagram.com/felipesavioer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitter.com/felipesavioer" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
